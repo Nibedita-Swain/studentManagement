@@ -1,0 +1,44 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Ramsha Samreen",
+      "email": "ramsha@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Samreer",
+      "email": "sam21@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Akash Yadav",
+      "email": "aksh@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Saswat Samal",
+      "email": "sassam@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Simran Sahu",
+      "email": "simran@gmail.com"
+    },
+    {
+      "name": "James Martin",
+      "email": "Jamesm@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "John Robinhood",
+      "email": "jorin@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "Eric Garden",
+      "email": "eric@gmail.com",
+      "id": 8
+    }
+  ]
+}
